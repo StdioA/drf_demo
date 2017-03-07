@@ -1,0 +1,22 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"python3",
+				"-u",
+				"manage.py",
+				"test"
+			],
+			"working_dir": ".", 
+			"name": "Python - Django"
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	]
+}
